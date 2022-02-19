@@ -3,14 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <title>Run Buddy</title>
-    <style>
-      body {
-        background-color: tomato;
-      }
-      h1 {
-        font-size: 100px;
-      }
-    </style>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <!-- this link is basically saying, follow this path, to find this file (style.css) and apply the styling rules in that file to the matched HTML elements -->
+    <!-- this is relative pathing (in relation to the current folder opened) compared to absolute pathing, which would include ./SaadG/C:/Desktop/coding .... etc.
+    Absolute pathing would be problematic when exchanging code or deploying the server/application from a different network node -->
   </head>
   <body>
     <!-- Navigation -->
@@ -18,23 +14,24 @@
       <h1>
         <a href="/">RUN BUDDY</a>
       </h1>
+
       <nav>
         <!-- unordered  list element -->
         <ul>
           <!-- List item element -->
+          <li>
+            <a href="#what-we-do">What We Do</a>
+          </li>
+          <li>
+            <a href="#what-you-do">What You Do</a>
+          </li>
+          <li>
+            <a href="#your-trainers">Your Trainers</a>
+          </li>
+          <li>
+            <a href="#reach-out">Reach Out</a>
+          </li>
         </ul>
-        <li>
-          <a href="#what-we-do">What We Do</a>
-        </li>
-        <li>
-          <a href="#what-you-do">What You Do</a>
-        </li>
-        <li>
-          <a href="#your-trainers">Your Trainers</a>
-        </li>
-        <li>
-          <a href="#reach-out">Reach Out</a>
-        </li>
       </nav>
     </header>
 
