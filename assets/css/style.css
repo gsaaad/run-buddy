@@ -1,13 +1,14 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 /* universal selector for the whole page!
 here we removed all default built margin and padding to all elements on the page!
 */
 
 body {
-  color: #357076;
+  color: #39a6b2;
   font-family: Arial, Helvetica, sans-serif;
 }
 /* style for body */
@@ -50,3 +51,33 @@ header nav ul li a {
   font-size: 22px;
 }
 /* style for a, specifically in list item, unordered list, nav, header */
+
+footer {
+  background: #fce138;
+  width: 100%;
+  padding: 40px 35px;
+}
+/* style for footer, adding background color, width taking 100%, 
+and padding top bottom 40 px, left right 35 px */
+
+footer h2 {
+  display: inline;
+  color: #024e76;
+  font-size: 30px;
+  margin: 0;
+}
+/* style for footer, specifically h2, display is inline, color, font size and no margin! */
+
+footer div {
+  float: right;
+  line-height: 1.5;
+  text-align: right;
+}
+/* style for footer, specifically div,
+    float right,
+    line height is 1.5x what is current  (makes it more readable)
+    text-align right     <~ this allows us to push all text to the most right side of the parent element */
+
+footer a {
+  color: #024e76;
+}
