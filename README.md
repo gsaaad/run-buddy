@@ -1,18 +1,16 @@
-# Run Buddy
+# Run Buddy, Inc
 
 ## Purpose
+A website that offers fitness training services. 
 
-A webbsite that offers fitness training services.
-
-## Build with
-
-- HTML
-- CSS
+## Built With
+* HTML
+* CSS
 
 ## Website
-
 https://gsaaad.github.io/run-buddy/
 
 ## Contribution
+Made with ❤️ by [your name]
 
-Made with ❤️ by George Saad
+### ©️2022 Run Buddy, Inc 
