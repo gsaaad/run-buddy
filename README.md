@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://gsaaad.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by George Saad
 
 ### ©️2022 Run Buddy, Inc 
