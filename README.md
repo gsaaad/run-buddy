@@ -16,3 +16,4 @@ https://gsaaad.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by George Saad
+CHANGE ADDED ON + GIThUB
