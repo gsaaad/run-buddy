@@ -1,4 +1,4 @@
-# Run Buddy INC.
+# Run Buddy SICK-INC, 2022
 
 ## Purpose
 
@@ -16,4 +16,4 @@ https://gsaaad.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by George Saad
-CHANGE ADDED ON + GIThUB
+CHANGE ADDED ON + GIThUB!!
