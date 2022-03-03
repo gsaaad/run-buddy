@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc
 
 ## Purpose
 
@@ -16,3 +16,5 @@ https://gsaaad.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by George Saad
+
+### ©️2022 Run Buddy, Inc
