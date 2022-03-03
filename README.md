@@ -17,3 +17,5 @@ https://gsaaad.github.io/run-buddy/
 
 Made with ❤️ by George Saad
 CHANGE ADDED ON + GIThUB!!
+
+### ©️2022 Run Buddy, Inc
